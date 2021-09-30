@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>new</title>
+	<title>Test</title>
 	<style type="text/css">
 		div
 		{
-			margin-left: 100px;
-			width: 500px;
-			height: 500px;
+			margin-left: 150px;
+			width: 400px;
+			height: 540px;
 			color: blue;
-			text-decoration: underline;
+			text-decoration: none;
 			text-shadow: 5px 5px 5px;
 			text-align: center;
 			border: solid;
-			border-color: green;
+			border-color: greenyellow;
 			padding:50px 130px;
 			
 
@@ -39,13 +39,13 @@
 		{
 			text-align: left;
 			text-decoration: line-through;
-			text-transform: lowercase;
+			text-transform: uppercase;
 		}
 		h2
 		{
 			text-align: right;
 			text-decoration: overline;
-			text-transform: uppercase;
+			text-transform: lowercase;
 		}
 	</style>
 </head>
@@ -55,9 +55,9 @@
 		<img src="1.jpg" alt="">
 	</div>
 
-	<p> text-align</p>
-	<h1>text-align</h1>
-	<h2>text-align</h2>
+	<p> hello</p>
+	<h1>hi</h1>
+	<h2>bye</h2>
 
 </body>
 </html>
